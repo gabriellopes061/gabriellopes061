@@ -22,11 +22,16 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML5" width="50px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS3" width="50px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="JavaScript" width="50px"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" alt="Sqlite" width="50px"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" alt="windows" width="50px"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="50px"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://camo.githubusercontent.com/632ed1d8e9b0eed91a43213178a4899affa3c9a9bf5588617b18db0b18618f15/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f5669727475616c626f785f6c6f676f2e706e67" alt="vbox" width="50px"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="50px"></a>
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas no GitHub
 
 <p align="center">
   <a href="https://github.com/gabriellopes061">
@@ -37,7 +42,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Onde me encontrar
 
 <a href="mailto:gabriellopes161107@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/gabriel-lopes-2617a5304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
