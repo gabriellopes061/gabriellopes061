@@ -6,9 +6,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, atualmente concluindo o último semestre. Meu foco principal é atuar como desenvolvedor **Back-End** e, futuramente, pretendo cursar **Sistemas da informação**.
+Sou estudante de Desenvolvimento de Sistemas, atualmente no último semestre do curso técnico no SENAI. Estou me preparando para ingressar no mercado de trabalho como desenvolvedor back-end júnior. Tenho uma forte paixão por tecnologia e programação, com especial interesse em desenvolver soluções eficientes e escaláveis. No futuro, meu objetivo é avançar na carreira e me tornar um engenheiro de software, contribuindo para o desenvolvimento de sistemas robustos e inovadores.
 
-Uma curiosidade: também toco violino nas horas vagas.
+Para continuar aprimorando meus conhecimentos, pretendo cursar Sistemas de Informação na Unicamp, uma instituição renomada, que acredito ser o ambiente ideal para expandir minha formação acadêmica e adquirir habilidades mais profundas em áreas como **Engenharia de software, bancos de dados e inteligência artificial**.
+
+Além da programação, tenho uma grande paixão pela música e, nas horas vagas, toco violino na Orquestra da Congregação Cristã no Brasil. A música me ensina a disciplina, a criatividade e o trabalho em equipe, habilidades que considero valiosas também no desenvolvimento de software.
+
+Estou sempre buscando novos desafios e oportunidades para aprender, crescer e colaborar com pessoas que compartilham a mesma paixão por tecnologia e inovação.
 
 ---
 
