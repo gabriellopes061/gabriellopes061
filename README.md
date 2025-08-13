@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, atualmente concluindo o último semestre. Meu foco principal é atuar como desenvolvedor **Back-End** e, futuramente, pretendo cursar **Engenharia de Software**.
+Sou estudante de **Desenvolvimento de Sistemas**, atualmente concluindo o último semestre. Meu foco principal é atuar como desenvolvedor **Back-End** e, futuramente, pretendo cursar **Sistemas da informação**.
 
 Uma curiosidade: também toco violino nas horas vagas.
 
