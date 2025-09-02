@@ -49,5 +49,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ### 📫 Onde me encontrar
 
 <a href="mailto:gabriellopes161107@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/gabriel-lopes-2617a5304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gabriel-lopes-bispo-da-costa-2617a5304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://portifolio-3lvi.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeXptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6bS0xLTQtMS41LDEuNUwxMCAxN2w0LTQtMS41LTEuNUwxMSAxNC41bDEuNS0xLjV6bTItM2wtMS41IDEuNUwxMCAxMmw0LTQtMS41LTEuNUwxMyA5LjVsMS41LTEuNXoiLz48L3N2Zz4=&logoColor=white" alt="Portfólio"></a>
