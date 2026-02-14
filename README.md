@@ -1,7 +1,5 @@
 # Olá, eu sou o Gabriel Lopes! 👋
 
-<img src="https://raw.githubusercontent.com/gabriellopes061/DS-2024/main/fotos/lopes.png" width="120px" alt="Gabriel Lopes">
-
 ---
 
 ### 👨‍💻 Sobre Mim
